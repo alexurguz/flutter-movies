@@ -10,3 +10,10 @@
 # enable dir assets into file pubspec.yml
   assets:
      - assets/img/
+
+
+# use api key movies API
+Create account in https://www.themoviedb.org
+
+* generate Api key
+* replace  String _apiKey = 'api key https://www.themoviedb.org'; with the Api Key in files located in the path src/providers
