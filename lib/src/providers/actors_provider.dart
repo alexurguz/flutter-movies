@@ -5,7 +5,7 @@ import 'package:movies/src/models/actor_model.dart';
 
 class ActorsProvider{
 
-  String _apiKey = 'd617577676070b32f770f3227974c5bc';
+  String _apiKey = 'api key https://www.themoviedb.org';;
   String _url = 'api.themoviedb.org';
   String _language = 'es-ES';
 
